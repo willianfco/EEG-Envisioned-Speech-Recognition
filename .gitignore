@@ -698,3 +698,5 @@ char_normalized_dataset.npz
 bibref/eeg_system_for_aac_with_RNN.pdf
 char_normalized_flatten_dataset.npz
 model.png
+VIT_model.png
+BERT_model.png
