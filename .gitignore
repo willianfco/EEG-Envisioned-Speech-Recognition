@@ -700,3 +700,7 @@ char_normalized_flatten_dataset.npz
 model.png
 VIT_model.png
 BERT_model.png
+char_normalized_test_dataset.npz
+.gitignore
+char_normalized_train_dataset.npz
+Original_model.png
