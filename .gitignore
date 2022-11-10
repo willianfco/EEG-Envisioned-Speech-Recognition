@@ -704,3 +704,5 @@ BERT_model.png
 .gitignore
 Original_model.png
 char_flatten_dataset.npz
+__pycache__/eeg_transformer.cpython-38.pyc
+__pycache__/train.cpython-38.pyc
