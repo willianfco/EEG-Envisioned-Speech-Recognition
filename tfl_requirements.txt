@@ -47,7 +47,7 @@ itsdangerous==2.1.2
 jedi==0.18.1
 Jinja2==3.1.2
 joblib==1.2.0
-jupyter-core==4.11.1
+jupyter-core==4.11.2
 jupyter_client==7.3.5
 kaggle==1.5.12
 keras==2.10.0
