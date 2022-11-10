@@ -5,5 +5,7 @@ PYTHON = python3
 install-pip-tools:
 	$(PYTHON) -m pip install pip-tools 
 
-requirements: install-pip-tools
-	$(PYTHON) -m pip install -r requirements.txt 
+tfl_requirements: install-pip-tools
+	$(PYTHON) -m pip install -r tfl_requirements.txt
+pyt_requirements: install-pip-tools
+	$(PYTHON) -m pip install -r pyt_requirements.txt 
