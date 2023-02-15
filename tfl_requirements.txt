@@ -14,7 +14,7 @@ Cython==0.29.32
 debugpy==1.6.3
 decorator==5.1.1
 dill==0.3.6
-Django==4.1.6
+Django==4.1.7
 dm-tree==0.1.7
 entrypoints==0.4
 etils==0.9.0
