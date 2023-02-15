@@ -65,7 +65,7 @@ stack-data==0.5.0
 threadpoolctl==3.1.0
 tokenizers @ file:///C:/ci/tokenizers_1651821356948/work
 tomli==2.0.1
-torch==1.10.2
+torch==1.13.1
 torchsummary==1.5.1
 tornado==6.2
 tqdm @ file:///C:/b/abs_0axbz66qik/croots/recipe/tqdm_1664392691071/work
