@@ -24,7 +24,7 @@ huggingface-hub @ file:///C:/b/abs_8d8wo2z8c6/croot/huggingface_hub_166749029890
 idna @ file:///C:/b/abs_bdhbebrioa/croot/idna_1666125572046/work
 image==1.5.33
 ipykernel==6.15.2
-ipython==8.5.0
+ipython==8.10.0
 jedi==0.18.1
 joblib==1.2.0
 jupyter_client==7.3.5
